@@ -1,0 +1,1 @@
+Artista.objects.order_by("nombre")
