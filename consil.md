@@ -1,3 +1,5 @@
+# 9.1. Consultas básicas
+
 ## 1. Mostrar todos los artistas ordenados alfabéticamente.
 
 ```python
